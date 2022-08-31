@@ -6,6 +6,8 @@
 #include <iostream>
 using namespace std;
 
+//Incomplete Functions : Structure of DB is Given Below
+
 /*                   BASIC STRUCTURE OF THE DATABASE  
 
     Used enums  :   {flags, login, Conferance_Type, Transport, Connectivity_Ice}
