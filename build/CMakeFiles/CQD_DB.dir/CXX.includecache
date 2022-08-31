@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/inc/database.h
+vector
+-
+string
+-
+iostream
+-
+
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/inc/server.h
+database.h
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/inc/database.h
+netinet/in.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/socket.h
+-
+unistd.h
+-
+
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/server.cpp
+inc/server.h
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/inc/server.h
+nlohmann/json.hpp
+-
+

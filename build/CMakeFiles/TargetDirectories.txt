@@ -1,0 +1,3 @@
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/build/CMakeFiles/edit_cache.dir
+/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/build/CMakeFiles/CQD_DB.dir

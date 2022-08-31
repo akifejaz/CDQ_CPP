@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/build",
+  "command": "c++   -I/.  -g   -std=gnu++14 -o CMakeFiles/CQD_DB.dir/server.cpp.o -c /mnt/d/Akif/Younite-Internship/CDQ_Dashboard/server.cpp",
+  "file": "/mnt/d/Akif/Younite-Internship/CDQ_Dashboard/server.cpp"
+}
+]

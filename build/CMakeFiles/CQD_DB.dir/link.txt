@@ -1,0 +1,1 @@
+c++  -g  -rdynamic CMakeFiles/CQD_DB.dir/server.cpp.o  -o CQD_DB 
